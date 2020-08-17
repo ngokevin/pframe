@@ -4,7 +4,7 @@
 
 DOM is used only for declarative initialization.
 
-```
+```html
 <script>
 PFRAME.registerComponent('spin', {
   init: function (entity, data, app) {
